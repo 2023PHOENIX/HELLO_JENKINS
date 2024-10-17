@@ -1,4 +1,1 @@
 spring.application.name=DemoJenkins
-
-
-server.port=9191
